@@ -55,7 +55,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000041d471fa8915a375e980f965&fn=image%285%29.png&cd=attachment&ts=494314&p=fs&cid=1&sig=c1ee1d0f6e04dd96ab625ca94a921f49fc845259fa15208dc3d3c708be50883f&v=0" />
 </p>
 
 ---
