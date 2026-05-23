@@ -1,7 +1,4 @@
 # Shiv-K
-<h1 align="center">Hi 👋, I'm Shiv K</h1>
-<h3 align="center">Java Developer | Problem Solver | Lifelong Learner</h3>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shiv%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20|%20DSA%20Learner%20|%20Problem%20Solver&descAlignY=55" />
 </p>
