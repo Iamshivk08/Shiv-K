@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Shiv K</h1>
 
 <h3 align="center">
-Java Developer • Problem Solver • Lifelong Learner
+Java fullstack Developer • Problem Solver • Lifelong Learner
 </h3>
 
 <p align="center">
